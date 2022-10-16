@@ -2,15 +2,19 @@
 
 Here are my contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets.
 
-## 2022 Week 12 [Babynames](https://github.com/evangower/tidytuesday/blob/main/scripts/babynames.R)
+## 2022 Week 20 [Eurovision](https://github.com/evangower/tidytuesday/blob/main/scripts/eurovision.R)
+
+![Eurovision rankings](https://github.com/evangower/tidytuesday/blob/main/plots/eurovision-rankings.png)
+
+## 2022 Week 12 [Baby names](https://github.com/evangower/tidytuesday/blob/main/scripts/babynames.R)
 
 ![How popular is the name Evan?](https://github.com/evangower/tidytuesday/blob/main/plots/babynames.png)
 
-## 2022 Week 4 [Board Games](https://github.com/evangower/tidytuesday/blob/main/scripts/boardgames.R)
+## 2022 Week 4 [Board games](https://github.com/evangower/tidytuesday/blob/main/scripts/boardgames.R)
 
 ![Board Games by Decade](https://github.com/evangower/tidytuesday/blob/main/plots/board-games-by-decade.png)
 
-## 2022 Week 3 [Where do cacao beans come from?](https://github.com/evangower/tidytuesday/blob/main/scripts/chocolate-bars-ratings.R)
+## 2022 Week 3 [Chocolate Bar ratings](https://github.com/evangower/tidytuesday/blob/main/scripts/chocolate-bars-ratings.R)
 
-![Chocolate Bar Ratings](https://github.com/evangower/tidytuesday/blob/main/plots/chocolate-bar-ratings.PNG)
+![Where do cacao beans come from?](https://github.com/evangower/tidytuesday/blob/main/plots/chocolate-bar-ratings.PNG)
 
