@@ -2,6 +2,10 @@
 
 Here are my contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets.
 
+## 2022 Week 22 [Axios-Harris Poll](https://github.com/evangower/tidytuesday/blob/main/scripts/axiosharrispoll.R)
+
+![Reputation of FAANG companies](https://github.com/evangower/tidytuesday/blob/main/plots/reputation-of-faang-companies.PNG)
+
 ## 2022 Week 20 [Eurovision](https://github.com/evangower/tidytuesday/blob/main/scripts/eurovision.R)
 
 ![Eurovision rankings](https://github.com/evangower/tidytuesday/blob/main/plots/eurovision-rankings.png)
