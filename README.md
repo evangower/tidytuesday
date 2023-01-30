@@ -2,6 +2,10 @@
 
 Here are my contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets.
 
+## 2022 Week 51 [Weather Forecasts](https://github.com/evangower/tidytuesday/blob/main/scripts/weatherforecasterrors.R)
+
+![Temperature Surprises](https://github.com/evangower/tidytuesday/blob/main/plots/weatherforecasterrors.PNG)
+
 ## 2022 Week 22 [Axios-Harris Poll](https://github.com/evangower/tidytuesday/blob/main/scripts/axiosharrispoll.R)
 
 ![Reputation of FAANG companies](https://github.com/evangower/tidytuesday/blob/main/plots/reputation-of-faang-companies.PNG)
