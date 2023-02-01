@@ -6,6 +6,10 @@ Here are my contributions to [#TidyTuesday](https://github.com/rfordatascience/t
 
 ![Temperature Surprises](https://github.com/evangower/tidytuesday/blob/main/plots/weatherforecasterrors.PNG)
 
+## 2022 Week 44 [Horror Movies](https://github.com/evangower/tidytuesday/blob/main/scripts/horrormovies.R)
+
+![Horror Movies](https://github.com/evangower/tidytuesday/blob/main/plots/horrormovies.png)
+
 ## 2022 Week 22 [Axios-Harris Poll](https://github.com/evangower/tidytuesday/blob/main/scripts/axiosharrispoll.R)
 
 ![Reputation of FAANG companies](https://github.com/evangower/tidytuesday/blob/main/plots/reputation-of-faang-companies.PNG)
