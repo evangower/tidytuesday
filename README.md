@@ -10,6 +10,10 @@ Here are my contributions to [#TidyTuesday](https://github.com/rfordatascience/t
 
 ![Horror Movies](https://github.com/evangower/tidytuesday/blob/main/plots/horrormovies.png)
 
+## 2022 Week 40 [Product Hunt](https://github.com/evangower/tidytuesday/blob/main/scripts/producthunt.R)
+
+![Product Hunt](https://github.com/evangower/tidytuesday/blob/main/plots/producthunt.PNG)
+
 ## 2022 Week 20 [Eurovision](https://github.com/evangower/tidytuesday/blob/main/scripts/eurovision.R)
 
 ![Eurovision rankings](https://github.com/evangower/tidytuesday/blob/main/plots/eurovision-rankings.png)
