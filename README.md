@@ -2,6 +2,10 @@
 
 Here are my contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets.
 
+## 2023 Week 6 [Big Tech Stock Prices](https://github.com/evangower/tidytuesday/blob/main/scripts/bigtechstockprices.R)
+
+![Big Tech Stock Prices](https://github.com/evangower/tidytuesday/blob/main/plots/bigtechstockprices.png)
+
 ## 2022 Week 51 [Weather Forecasts](https://github.com/evangower/tidytuesday/blob/main/scripts/weatherforecasterrors.R)
 
 ![Temperature Surprises](https://github.com/evangower/tidytuesday/blob/main/plots/weatherforecasterrors.PNG)
