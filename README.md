@@ -2,6 +2,10 @@
 
 Here are my contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets.
 
+## 2023 Week 14 [Premier League Match Data](https://github.com/evangower/tidytuesday/blob/main/scripts/epl21-22-goals-for-goals-against.R)
+
+![Goals For and Against](https://github.com/evangower/tidytuesday/blob/main/plots/epl21-22-goals-for-goals-against.png)
+
 ## 2023 Week 6 [Big Tech Stock Prices](https://github.com/evangower/tidytuesday/blob/main/scripts/bigtechstockprices.R)
 
 ![Big Tech Stock Prices](https://github.com/evangower/tidytuesday/blob/main/plots/bigtechstockprices.png)
