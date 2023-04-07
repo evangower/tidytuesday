@@ -1,5 +1,4 @@
 library(tidyverse)
-library(showtext)
 library(rlang)
 library(ggforce)
 library(ggrepel)
@@ -7,10 +6,6 @@ library(ggrepel)
 # Load data
 tuesdata <- tidytuesdayR::tt_load(2023, week = 14)
 soccer <- tuesdata$soccer
-
-# Add custom font
-font_add_google('Cairo', 'cairo')
-showtext_auto()
 
 # Preparing data
 # Define the arguments, and set defaults to use the full time results
@@ -81,7 +76,7 @@ ggplot(league_table, aes(GA, GF)) +
        caption = "Data English Premier League | Viz: Evan Gower",
        x = "Goals Against", y = "Goals For") +
   theme_minimal() +
-  theme(text = element_text(family = 'cairo', color = "gray10"),
+  theme(text = element_text(color = "gray10"),
         plot.title = element_text(size = 18, face = "bold"),
         plot.subtitle = element_text(size = 12),
         plot.caption = element_text(size = 4),
