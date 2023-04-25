@@ -2,6 +2,10 @@
 
 Here are my contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets.
 
+## 2023 Week 17 [London Marathon](https://github.com/evangower/tidytuesday/blob/main/scripts/londonmarathon.R)
+
+![Wins per Nation](https://github.com/evangower/tidytuesday/blob/main/plots/londonmarathon.PNG)
+
 ## 2023 Week 14 [Premier League Match Data](https://github.com/evangower/tidytuesday/blob/main/scripts/epl21-22-goals-for-goals-against.R)
 
 ![Goals For and Against](https://github.com/evangower/tidytuesday/blob/main/plots/epl21-22-goals-for-goals-against.png)
